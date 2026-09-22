@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lp8sxf.cn/sitemap.xml

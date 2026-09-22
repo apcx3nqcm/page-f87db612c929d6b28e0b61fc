@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "44f4b342c21434693481f23a",
+  "owner": "apcx3nqcm",
+  "repo": "page-f87db612c929d6b28e0b61fc",
+  "title": "芳乃家",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f87db612c929d6b28e0b61fc",
+      "a": "芳乃家",
+      "b": "机场官网线路发布页",
+      "entity": "芳乃家",
+      "brand": "芳乃家",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b2714d696d178dd180510d1ef40ad6d0c65af368458eb940fa3af6d08fe60e29",
+      "content": {
+        "primary_entity": "芳乃家",
+        "keyword1": "芳乃家",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备适配、订阅配置和套餐档位展开实用说明。基础版每月15元提供100GB流量与3台设备在线，旗舰版每月35元提供300GB流量、5台设备以及IPLC专线游戏加速，团队版每月85元提供1000GB流量与20台设备额度，适合小型协作场景。",
+          "AI_HERO_SUBTITLE": "芳乃家套餐与订阅配置参考",
+          "AI_HERO_INTRO": "芳乃家提供基础版、旗舰版与团队版三档订阅，流量从每月100GB到1000GB，在线设备从3台到20台。选购时先确认日常设备数量与月流量，再对照各档权益，就能找到贴合自己使用节奏的一档。",
+          "AI_VISUAL_TITLE": "芳乃家订阅方案速览",
+          "AI_HIGHLIGHT_1": "基础版每月15元含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版5台设备与IPLC专线",
+          "AI_HIGHLIGHT_3": "团队版20台设备适配小型协作",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURES_INTRO": "套餐档位差别主要体现在流量额度、在线设备数量与节点类型，按实际使用规模挑选更顺手。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "单人手机加电脑选基础版3台；家庭或双设备用户适合旗舰版5台；需要多人共享时考虑团队版20台。",
+          "AI_FEATURE_TITLE_2": "按月或按年订阅",
+          "AI_FEATURE_TEXT_2": "基础版按年付150元，旗舰版按年付350元，团队版按年付850元，长期使用年付更省心。",
+          "AI_FEATURE_TITLE_3": "节点类型对应场景",
+          "AI_FEATURE_TEXT_3": "普通线路满足浏览与基础流媒体，旗舰版IPLC专线侧重游戏加速，团队版提供VIP高带宽节点。",
+          "AI_CLIENTS_TITLE": "客户端安装参考",
+          "AI_CLIENTS_INTRO": "不同系统对应不同订阅客户端，按设备类型选择安装包，并依照客户端说明导入订阅链接即可。",
+          "AI_PLANS_TITLE": "套餐档位对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点上有明显区分：基础版100GB/3台，旗舰版300GB/5台，团队版1000GB/20台。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，大致需要三步，按设备情况操作即可。",
+          "AI_STEP_TITLE_1": "选择合适套餐",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量与月流量需求，对照三档套餐的流量和权益选出对应档位。",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统是否在支持范围，并了解对应客户端对订阅链接格式的要求。",
+          "AI_STEP_TITLE_3": "按客户端文档导入订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中依照说明添加订阅地址，完成更新后即可在设备上使用所选线路。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "芳乃家套餐的流量可以结转到下月吗？",
+          "AI_FAQ_ANSWER_1": "套餐流量按自然月计算，未使用部分通常不结转到下月，建议按实际用量选择档位。",
+          "AI_FAQ_QUESTION_2": "同一时间可以在几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版为5台，团队版为20台，超出数量可能影响使用。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "权益一致，按年付享受更低月均价格，例如基础版年付150元、旗舰版年付350元、团队版年付850元。",
+          "AI_FAQ_QUESTION_4": "订阅地址怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在所选客户端中找到添加订阅或导入配置的选项，把获取到的订阅链接粘贴并保存，然后更新节点即可。",
+          "AI_FAQ_QUESTION_5": "遇到连接问题应该如何处理？",
+          "AI_FAQ_ANSWER_5": "先检查订阅是否更新、设备数量是否超限，再尝试切换节点或重启客户端；问题仍在可提交工单反馈。",
+          "AI_CLOSING_TITLE": "选对套餐轻松使用",
+          "AI_CLOSING_TEXT": "按设备与流量需求挑好档位，依照客户端说明导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lp8sxf.cn",
+    "host": "lp8sxf.cn"
+  },
+  "file_hashes": {
+    "index.html": "aa20dce3711f681d2b604ed1f2a4b4b31b6ba8fa7018703cb0d163e397b6698c",
+    "sitemap.xml": "902ff09f83e12d7b855f0b03e342fb4b6b7e46f7ec52d9cfe7f383115050f602",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5e8fe5f0dc7056760011668a096827ddc8e0bd6013072f50c4e2d64e710a64f3",
+    "robots.txt": "50a4f847834a12c283952c1e84d68f8298a41d8b6aaf0b4ff7a8c23e7274e7bf",
+    "099c192c4dd90bee632806517a3f2f4d.txt": "86bfd79a5a5a91862b3e0a5564efed67c35bc7a83d5d0a4cfe719320b44f54d6"
+  },
+  "revision": "0de132d86e69c9c27dc2ce5d9018ae785169c1a0e522fff496b87b485f1687a3"
+}
